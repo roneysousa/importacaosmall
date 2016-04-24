@@ -2,9 +2,9 @@ program ImportacaoSMALL;
 
 uses
   Forms,
-  untFrmMain in 'fontes\untFrmMain.pas' {FrmMain},
-  untdmDados in 'fontes\untdmDados.pas' {dmDados: TDataModule},
-  uFuncoes in 'fontes\uFuncoes.pas';
+  untFrmMain in 'untFrmMain.pas' {FrmMain},
+  untdmDados in 'untdmDados.pas' {dmDados: TDataModule},
+  uFuncoes in 'uFuncoes.pas';
 
 {$R *.res}
 
